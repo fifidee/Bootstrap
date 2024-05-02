@@ -57,11 +57,11 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 10vh;
-  font-family: Montserrat;
+  font-family: "myfont";
 }
 
 .logo {
-  font-family: Montserrat;
+  font-family: "myfont";
   text-align: center;
   margin-left: 100px;
   font-size: xx-large;
@@ -74,7 +74,7 @@ nav ul {
   display: flex;
   -moz-column-gap: 30px;
        column-gap: 30px;
-  font-family: Montserrat;
+  font-family: "myfont";
 }
 
 .about .fa-solid, .fas {
@@ -112,7 +112,7 @@ nav ul {
   align-items: center;
   text-align: center;
   color: white;
-  font-family: Montserrat;
+  font-family: "myfont";
 }
 .content p {
   margin-top: 10px;
@@ -168,7 +168,7 @@ nav ul {
   padding-bottom: 60px;
   background-color: #1bbc9c;
   color: white;
-  font-family: Montserrat;
+  font-family: "myfont";
 }
 .About button {
   padding: 10px 20px;

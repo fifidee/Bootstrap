@@ -60,13 +60,14 @@ a{ text-decoration: none;
     justify-content: space-between;
     align-items: center;
     height: 10vh;
-    font-family: Montserrat;
+    font-family: "myfont";
 }
 
-.logo {  font-family: Montserrat;
+.logo {  
+  font-family: "myfont";
   text-align: center;
-         margin-left: 100px;
-    font-size: xx-large 
+   margin-left: 100px;
+  font-size: xx-large 
         
 }
 
@@ -76,7 +77,7 @@ nav ul {
    padding-top: 20px;
     display: flex;
     column-gap: 30px;
-    font-family: Montserrat;
+    font-family: "myfont";
     
 }
 
@@ -122,7 +123,7 @@ nav ul {
     align-items: center;
     text-align: center;
     color: white;
-    font-family: Montserrat;
+    font-family: "myfont";
 
   }  
   p{ margin-top: 10px;
@@ -184,7 +185,7 @@ nav ul {
     padding-bottom: 60px;
     background-color: #1bbc9c;
      color: white;
-     font-family: Montserrat;
+     font-family: "myfont";
     
      
      button {  
